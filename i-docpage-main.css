@@ -1,7 +1,0 @@
-i\:docpage-main {
-	display: table-cell;
-	$display: block; /* ie7- */
-	zoom: 1;
-	border-left: 1px solid #eee;
-	border-right: 1px solid #eee;
-}

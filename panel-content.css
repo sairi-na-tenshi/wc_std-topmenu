@@ -1,9 +1,0 @@
-i\:panel-content,
-.i-panel-content {
-position: relative;
-width: 100%;
-display: table;
-$display: block;
-$overflow: hidden;
-zoom: 1;
-}

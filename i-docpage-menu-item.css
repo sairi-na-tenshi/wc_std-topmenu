@@ -1,0 +1,14 @@
+i\:docpage-menu-item {
+	display: block;
+	padding: 5px 10px;
+	font-size: 15px;
+	line-height: 15px
+}
+
+a:hover i\:docpage-menu-item {
+	background: #eee;
+}
+
+a.target\=true i\:docpage-menu-item {
+	font-weight: bold;
+}

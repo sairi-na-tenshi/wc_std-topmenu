@@ -1,0 +1,9 @@
+i\:docpage {
+	display: block;
+	width: 100%\9;
+	max-width: 1100px;
+    text-align: left;
+    position: relative;
+    $overflow: hidden;
+	z-index: 0;
+}
